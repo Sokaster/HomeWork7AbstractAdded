@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bhPgja5S6gRKw84hfhDwjyVuV1rTBl/cG270WHP1qbgD8qklA3vuzZW0EaVAqg2rlF6sTcNh1K11tY/CBsf/GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danen\\Desktop\\MedicineList\\MedicineList\\MedicineList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512",
+    "C:\\Users\\danen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\danen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\danen\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
